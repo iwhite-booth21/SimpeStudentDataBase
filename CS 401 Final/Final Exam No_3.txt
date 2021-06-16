@@ -1,0 +1,8 @@
+// To display all information in table
+SELECT * FROM Student;
+
+// To display name and majors only
+SELECT name, Major FROM Student;
+
+// To display ids and majors
+SELECT StudentID, Major FROM Student;
